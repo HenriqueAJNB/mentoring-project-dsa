@@ -7,3 +7,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 The main ideia is to lead 6 mentored that will colaborate in order to learn from basics to advanced techniques in Data Science and Analytics.
 
 Later, after Kaggle submition, we intend to use IBM Watson and other tools to deploy our Machine Learning model.
+
+All Project Management and activities will be controlled using Trello:
+
+https://trello.com/b/elpXgOXB/projeto-time-mentoria-dsa
